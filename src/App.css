@@ -1,3 +1,39 @@
+/* * {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(240, 234, 150);
+}
+
+.name {
+  text-align: center;
+  color: rgb(87, 128, 218);
+}
+
+.para {
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+}
+
+.title {
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding-top: 20px;
+}
+
+.list {
+  letter-spacing: 4px;
+  padding-top: 10px;
+  color: rgb(87, 128, 218);
+} 
+
 .App {
   text-align: center;
 }
@@ -36,3 +72,4 @@
     transform: rotate(360deg);
   }
 }
+*/
